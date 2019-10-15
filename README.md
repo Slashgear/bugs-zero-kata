@@ -13,6 +13,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Slashgear/bugs-zero-kata.svg)](https://greenkeeper.io/)
+
 ```sh
 yarn install
 ```
