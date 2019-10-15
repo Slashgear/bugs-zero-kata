@@ -1,10 +1,25 @@
-# bugs-zero-kata
+<h1 align="center">Welcome to bugs-zero-kata 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/Slashgear_" target="_blank">
+    <img alt="Twitter: Slashgear_" src="https://img.shields.io/twitter/follow/Slashgear_.svg?style=social" />
+  </a>
+</p>
 
+> Kata to learn agile refactoring
 
-Install modules and run the tests
+## Install
 
 ```sh
-yarn
+yarn install
+```
+
+## Run tests
+
+```sh
 yarn test
 ```
 
@@ -34,3 +49,17 @@ With all teams, discuss about all the refactors and vote for one.
  4. Implement previously elected refactor
 
  5. **GOTO** Step 3 and iterate
+
+## Author
+
+👤 **Antoine Caron**
+
+* Twitter: [@Slashgear_](https://twitter.com/Slashgear_)
+* Github: [@Slashgear](https://github.com/Slashgear)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
