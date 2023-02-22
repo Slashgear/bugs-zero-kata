@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`The game should work log those actions 1`] = `
-Array [
+[
   "Chet was added",
   "They are player number 1",
   "Pat was added",
